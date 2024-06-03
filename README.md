@@ -1,1 +1,1 @@
-# P26-Spam-Filter
+# Spam-Filter-26th Project
